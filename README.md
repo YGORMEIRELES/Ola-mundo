@@ -1,2 +1,3 @@
-# Ola-mundo
- primeiro repositorio git hun
+# Olá, mundo!
+ primeiro repositorio git hub no curso em video.
+ 
